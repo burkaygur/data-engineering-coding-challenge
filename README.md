@@ -1,3 +1,5 @@
+# Challenge
+
 We have a collection of N documents. In our case we have one file per document and the name of a file is simply the indice of the document.
 
 To get started, we want a dictionary that matches every word from the documents with a unique id.
